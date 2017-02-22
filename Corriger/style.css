@@ -1,0 +1,29 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    width: 52%;
+    margin: 0  auto;
+}
+
+header, footer{
+    text-align: center;
+    width: 50%;
+    margin: 10% auto 2%;
+}
+
+header hr, section hr, footer hr{
+    padding-left: 40%;
+    padding-right: 40%;
+    margin: -20px;
+}
+/*navigation*/
+nav{
+    text-align: center;
+}
+
+nav ul{
+    margin-top: 0;
+}
+
+nav ul li{
+    display: inline-block;
+}
