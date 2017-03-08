@@ -1,0 +1,191 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    border: 0;
+}
+header{
+    height: 100px;
+    background-color:  #123567;
+    border-bottom: 2px solid #4E9CFF;
+}
+
+.conteneur{
+    width: 1000px;
+    height: 100px;
+    background-color: #123567;
+    margin: 0 auto;
+}
+
+.logo{
+    height: 100px;
+    background-color: #123567;
+    width: 150px;
+    float: left;
+}
+
+.logo2{
+    height: 100px;
+    background-color: #123567;
+    width: 150px;
+    float: right;
+}
+
+#logo1{
+    height: 100px;
+    width: 130px;
+}
+
+#logo2{
+    height: 100px;
+    width: 500px;
+}
+
+.texte{
+    height: 100px;
+    width: 300px;
+    background-color: #123567;
+    float: left;
+}
+
+.texte h1{
+    color: white;
+}
+
+.contact{
+    height: 100px;
+    width: 200px;
+    background-color: #123567;
+    float: right;
+}
+
+h3{
+    color: #5CC0FA;
+}
+
+.contact p{
+    color: grey;
+}
+
+nav{
+    border-bottom: 2px solid #4E9CFF;
+    height: 30px;
+    background-color: pink;
+    text-align: center;
+    background-color: #92C9FE;
+}
+
+nav a{
+    padding:  40px;
+    color: white;
+}
+
+.conteneur2{
+    height: 700px;
+    width: 990px;
+    background-color: #123567;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.milieuG{
+    height: 700px;
+    width: 620px;
+    background-color: #123567;
+    float: left;
+    padding: 2px;
+}
+
+
+.part1{
+    height: 350px;
+    width: 620px;
+    background-color: #123567;
+    border-bottom: 2px solid  #123567;
+}
+
+#game{
+    height: 250px;
+    width: 250px;
+    float: right;
+}
+
+#salle1{
+    height: 200px;
+    width: 620px;
+    float: right;
+}
+
+.part1 p{
+    font-size: 20px;
+}
+
+.part2{
+    height: 350px;
+    width: 620px;
+    background-color: #123567;
+}
+
+.part2 p, ul{
+    font-size: 20px;
+}
+
+.milieuD{
+    height: 695px;
+    width: 355px;
+    background-color: #123567;
+    float: right;
+    padding: 5px;
+}
+
+.haut{
+    height: 230px;
+    width: 350px;
+    background-color: #123567;
+    margin-right: 5px;
+}
+
+#rubik{
+    height: 230px;
+    width: 350px;
+}
+
+.milieu{
+    height: 230px;
+    width: 350px;
+    background-color: #123567;
+    margin-right: 5px;
+}
+
+#rubik1{
+    height: 230px;
+    width: 350px;
+}
+
+.bas{
+    height: 230px;
+    width: 350px;
+    background-color: #123567 ;
+    margin-right: 5px;
+}
+
+#rubik2{
+    height: 230px;
+    width: 350px;
+}
+
+footer{
+    height: 100px;
+    background-color: #123567;
+}
+
+.foot{
+    height: 100px;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #123567;
+}
+
+body{
+    background-color: #123567;
+}
